@@ -1,8 +1,6 @@
-API backend desenvolvida com FastAPI para gerenciamento de:
+#  Bar API
 
-- Clientes
-- Bebidas
-- Pedidos
+API backend desenvolvida com FastAPI para gerenciamento de clientes, bebidas e pedidos.
 
 ##  Tecnologias
 - Python
@@ -33,3 +31,9 @@ API backend desenvolvida com FastAPI para gerenciamento de:
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
+
+##  Documentação
+
+Acesse no navegador:
+http://127.0.0.1:8000/docs
