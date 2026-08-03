@@ -4,6 +4,20 @@ Projeto criado para simular o backend de um bar/estabelecimento que precisa gere
 
 API backend desenvolvida com FastAPI para gerenciamento de clientes, bebidas e pedidos.
 
+## Exemplo de uso
+
+**Criando um pedido** — o valor total é calculado automaticamente:
+
+![Pedido criado](https://github.com/user-attachments/assets/0960ba4b-e820-4a77-9e41-85782228512b)
+
+**Estoque antes do pedido (Refrigerante lata em 498):**
+
+<img width="1142" height="772" alt="image" src="https://github.com/user-attachments/assets/62892e69-d3a0-402b-9b86-62977b44d60a" />
+
+**Estoque depois do pedido (Refrigerante lata em 497):**
+
+<img width="1142" height="772" alt="image" src="https://github.com/user-attachments/assets/0c4f0555-1589-471c-88e7-0bf874bc8b4e" />
+
 ##  Tecnologias
 - Python
 - FastAPI
